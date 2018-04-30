@@ -49,6 +49,6 @@ No need to start Application or Tomcat server.
 Following action automatically starts Tomcat server at a random port.
 Right click StudentControllerIT.java > Run As > JUnit Test
 
-Integration Test controller methods using MockMvc and Mockito
-=============================================================
+Unit Test controller methods using MockMvc and Mockito
+======================================================
 Right click StudentControllerTest.java > Run As > JUnit Test
